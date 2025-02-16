@@ -1,0 +1,1 @@
+# XAMJl0-computer-vision.-finding-the-coordinates-of-the-fingers-v.2
